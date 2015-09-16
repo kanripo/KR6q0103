@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:46:20.839009
+#+DATE: 2015-08-30 21:46:21.036186
 #+TITLE: 無心論
 #+PROPERTY: CBETA_ID T85n2831
 #+PROPERTY: ID KR6q0103
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2831
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6q0103_T_000-1269a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6q0103_T_001-1269a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2831¶
-
- 無心論一卷¶
+No. 2831¶
+無心論一卷¶
 ¶
 釋菩提達摩製¶
 
@@ -95,7 +94,7 @@ No.2831¶
 #+BEGIN_VERSE
 「　大即廓周法界
 　小即毛竭不停¶
-　煩惱混之不濁
+　煩惱混之濁
 　涅槃澄之不清¶
 　真如本無分別
 　能辯有情無情¶
@@ -149,6 +148,6 @@ No.2831¶
 能無其所妙。亦未為太。又忘其妙則佛道至¶
 極。則無所存。無存思則無思慮。兼妄心智永¶
 息。覺照俱盡。寂然無為。此名為太也。太是理¶
-極之義。上是無等色。故云太上。即之佛如¶
+極之義。上是無等之義。故云太上。即之佛如¶
 來之別名也。¶
 無心論一卷
